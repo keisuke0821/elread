@@ -1,0 +1,7 @@
+.ipynb*
+2018*
+2019*
+*.ipynb
+__py*
+*.dat
+*vscode*
